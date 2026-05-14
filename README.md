@@ -6,7 +6,7 @@ Projet réalisé dans le cadre de la préparation à la journée de sélection d
 
 - `requetes.sql` : requêtes SQL réalisées sur SQLiteOnline
 - `synthese.md` : synthèse des résultats d’analyse
-- `projet-data-analyst-simplon.ipynb` : notebook Python contenant les graphiques demandés
+- `projet-data-analyst-simplon.ipynb` : notebook Python contenant les graphiques demandés.
 
 Le notebook Python a été réalisé sous Jupyter Notebook puis ajouté au dépôt GitHub. 
 Le Codespace GitHub fourni dans le template étant resté bloqué lors de l’initialisation, le développement a été poursuivi en local.
