@@ -6,9 +6,8 @@ Projet réalisé dans le cadre de la préparation à la journée de sélection d
 
 - `requetes.sql` : requêtes SQL réalisées sur SQLiteOnline
 - `synthese.md` : synthèse des résultats d’analyse
-- `projet-data-analyst-simplon.ipynb` : notebook Python contenant les graphiques demandés.
-- `ventes_par_produit.png` : graphique des ventes par produit en image au format png.
-- `chiffre_daffaire_par_produit.png`: graphique du chiffre d'affaire par produit en image au format png.
+- `app-py` : génération des graphiques au format HTML avec Plotly
+- `projet-data-analyst-simplon.ipynb` : notebook Python contenant les graphiques demandés
+- `graphs` : le dossier graphs contient les différents graphiques attendus aux formats .html et .png
 
-Le notebook Python a été réalisé sous Jupyter Notebook puis ajouté au dépôt GitHub. 
-Le Codespace GitHub fourni dans le template étant resté bloqué lors de l’initialisation, le développement a été poursuivi en local.
+Le Codespace GitHub fourni dans le template étant resté bloqué lors de l’initialisation au début du projet, une partie du développement a d’abord été réalisée sous Jupyter Notebook avant reprise du workflow Codespaces.
